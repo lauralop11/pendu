@@ -1,3 +1,5 @@
 #contenu, #btnJeuNveau {
     display: none;
+    color: red;
+    background: blue;
 }
